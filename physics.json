@@ -1,0 +1,104 @@
+{
+    "Physics": [
+        {
+            "question": "What is the SI unit of force?",
+            "options": [
+                "Joule",
+                "Newton",
+                "Pascal",
+                "Watt"
+            ],
+            "correct_option": "Newton"
+        },
+        {
+            "question": "Who discovered gravity?",
+            "options": [
+                "Einstein",
+                "Newton",
+                "Galileo",
+                "Tesla"
+            ],
+            "correct_option": "Newton"
+        },
+        {
+            "question": "Which device is used to measure temperature?",
+            "options": [
+                "Barometer",
+                "Ammeter",
+                "Thermometer",
+                "Voltmeter"
+            ],
+            "correct_option": "Thermometer"
+        },
+        {
+            "question": "What is the speed of light in vacuum?",
+            "options": [
+                "3 x 10^8 m/s",
+                "3 x 10^6 m/s",
+                "3 x 10^5 m/s",
+                "3 x 10^7 m/s"
+            ],
+            "correct_option": "3 x 10^8 m/s"
+        },
+        {
+            "question": "Which form of energy is stored in a battery?",
+            "options": [
+                "Heat energy",
+                "Chemical energy",
+                "Sound energy",
+                "Nuclear energy"
+            ],
+            "correct_option": "Chemical energy"
+        },
+        {
+            "question": "What is the acceleration due to gravity on Earth?",
+            "options": [
+                "5.8 m/s²",
+                "7.8 m/s²",
+                "9.8 m/s²",
+                "11.8 m/s²"
+            ],
+            "correct_option": "9.8 m/s²"
+        },
+        {
+            "question": "Which gas is most abundant in Earth's atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "correct_option": "Nitrogen"
+        },
+        {
+            "question": "What type of lens is used in a magnifying glass?",
+            "options": [
+                "Concave lens",
+                "Convex lens",
+                "Cylindrical lens",
+                "Plane lens"
+            ],
+            "correct_option": "Convex lens"
+        },
+        {
+            "question": "The unit of electric current is:",
+            "options": [
+                "Volt",
+                "Ohm",
+                "Ampere",
+                "Watt"
+            ],
+            "correct_option": "Ampere"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_option": "Mars"
+        }
+    ]
+}

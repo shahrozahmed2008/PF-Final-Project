@@ -1,0 +1,104 @@
+{
+    "General_Knowledge": [
+        {
+            "question": "What is the capital of Pakistan?",
+            "options": [
+                "Lahore",
+                "Karachi",
+                "Islamabad",
+                "Peshawar"
+            ],
+            "correct_option": "Islamabad"
+        },
+        {
+            "question": "Which is the largest ocean in the world?",
+            "options": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Arctic Ocean",
+                "Pacific Ocean"
+            ],
+            "correct_option": "Pacific Ocean"
+        },
+        {
+            "question": "How many continents are there in the world?",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "correct_option": "7"
+        },
+        {
+            "question": "Which country is famous for the Eiffel Tower?",
+            "options": [
+                "Italy",
+                "France",
+                "Germany",
+                "Spain"
+            ],
+            "correct_option": "France"
+        },
+        {
+            "question": "Who wrote Hamlet?",
+            "options": [
+                "Charles Dickens",
+                "Shakespeare",
+                "Tolstoy",
+                "Homer"
+            ],
+            "correct_option": "Shakespeare"
+        },
+        {
+            "question": "What is the national animal of Pakistan?",
+            "options": [
+                "Lion",
+                "Tiger",
+                "Markhor",
+                "Deer"
+            ],
+            "correct_option": "Markhor"
+        },
+        {
+            "question": "Which is the smallest planet in the solar system?",
+            "options": [
+                "Venus",
+                "Mars",
+                "Mercury",
+                "Neptune"
+            ],
+            "correct_option": "Mercury"
+        },
+        {
+            "question": "Which language is primarily spoken in Brazil?",
+            "options": [
+                "Spanish",
+                "Portuguese",
+                "English",
+                "French"
+            ],
+            "correct_option": "Portuguese"
+        },
+        {
+            "question": "Who invented the telephone?",
+            "options": [
+                "Thomas Edison",
+                "Alexander Graham Bell",
+                "Nikola Tesla",
+                "Isaac Newton"
+            ],
+            "correct_option": "Alexander Graham Bell"
+        },
+        {
+            "question": "Which organ pumps blood in the human body?",
+            "options": [
+                "Brain",
+                "Liver",
+                "Kidney",
+                "Heart"
+            ],
+            "correct_option": "Heart"
+        }
+    ]
+}

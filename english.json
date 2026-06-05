@@ -1,0 +1,54 @@
+{
+    "English_Vocabulary": [
+        {
+            "question": "What is the synonym of Happy?",
+            "options": ["Sad", "Joyful", "Angry", "Tired"],
+            "correct_option": "Joyful"
+        },
+        {
+            "question": "What is the antonym of Brave?",
+            "options": ["Strong", "Fearless", "Cowardly", "Bold"],
+            "correct_option": "Cowardly"
+        },
+        {
+            "question": "Choose the correct spelling:",
+            "options": ["Enviroment", "Environment", "Envirenment", "Enviornment"],
+            "correct_option": "Environment"
+        },
+        {
+            "question": "What does Rapid mean?",
+            "options": ["Slow", "Fast", "Weak", "Quiet"],
+            "correct_option": "Fast"
+        },
+        {
+            "question": "Which word is a noun?",
+            "options": ["Beautiful", "Quickly", "Happiness", "Run"],
+            "correct_option": "Happiness"
+        },
+        {
+            "question": "What is the synonym of Ancient?",
+            "options": ["Modern", "Old", "New", "Fresh"],
+            "correct_option": "Old"
+        },
+        {
+            "question": "Which sentence is correct?",
+            "options": ["She go to school daily.", "She goes to school daily.", "She going to school daily.", "She gone to school daily."],
+            "correct_option": "She goes to school daily."
+        },
+        {
+            "question": "What does Generous mean?",
+            "options": ["Kind and giving", "Angry", "Lazy", "Careless"],
+            "correct_option": "Kind and giving"
+        },
+        {
+            "question": "Choose the correct plural form of Child:",
+            "options": ["Childs", "Childes", "Children", "Childrens"],
+            "correct_option": "Children"
+        },
+        {
+            "question": "What is the antonym of Expand?",
+            "options": ["Increase", "Grow", "Reduce", "Extend"],
+            "correct_option": "Reduce"
+        }
+    ]
+}

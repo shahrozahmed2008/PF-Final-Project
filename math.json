@@ -1,0 +1,104 @@
+{
+    "Math": [
+        {
+            "question": "What is the value of 12 x 10?",
+            "options": [
+                "84",
+                "120",
+                "108",
+                "88"
+            ],
+            "correct_option": "120"
+        },
+        {
+            "question": "If x + 7 = 15, then x = ?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "correct_option": "8"
+        },
+        {
+            "question": "What is the square root of 144?",
+            "options": [
+                "10",
+                "11",
+                "12",
+                "14"
+            ],
+            "correct_option": "12"
+        },
+        {
+            "question": "A triangle has angles of 60°, 60°, and 60°. What type of triangle is it?",
+            "options": [
+                "Right triangle",
+                "Scalene triangle",
+                "Isosceles triangle",
+                "Equilateral triangle"
+            ],
+            "correct_option": "Equilateral triangle"
+        },
+        {
+            "question": "What is 25% of 200?",
+            "options": [
+                "25",
+                "40",
+                "50",
+                "75"
+            ],
+            "correct_option": "50"
+        },
+        {
+            "question": "Solve: 9²",
+            "options": [
+                "18",
+                "72",
+                "81",
+                "99"
+            ],
+            "correct_option": "81"
+        },
+        {
+            "question": "What is the perimeter of a square with side length 5 cm?",
+            "options": [
+                "10 cm",
+                "15 cm",
+                "20 cm",
+                "25 cm"
+            ],
+            "correct_option": "20 cm"
+        },
+        {
+            "question": "Which number is a prime number?",
+            "options": [
+                "9",
+                "15",
+                "21",
+                "17"
+            ],
+            "correct_option": "17"
+        },
+        {
+            "question": "What is the value of 7 + 3 x 2?",
+            "options": [
+                "20",
+                "13",
+                "17",
+                "10"
+            ],
+            "correct_option": "13"
+        },
+        {
+            "question": "Convert 0.75 into a fraction.",
+            "options": [
+                "1/2",
+                "2/3",
+                "3/4",
+                "4/5"
+            ],
+            "correct_option": "3/4"
+        }
+    ]
+}
